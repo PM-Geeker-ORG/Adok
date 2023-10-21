@@ -69,9 +69,9 @@
 
 ![RunAsDate](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/5a9c7d4f-f6f1-4feb-83ea-4d680fb01377)
 
-> 如果旧账号过了30天使用期则会出现弹窗，且无法进入Axure10软件。下方图片为试用订阅到期的情况，如果使用RunAsDate中出现什么问题，并遇到订阅过期的弹窗提醒，直接关闭该页面（同时会关闭软件）。**```再一次使用RunAsDate快捷方式破解进入即可```**
+> 如果旧账号过了30天使用期则会出现弹窗，且无法进入Axure10软件。下方图片为试用订阅到期的情况，如果使用RunAsDate中出现什么问题，并遇到订阅过期的弹窗提醒，直接点击退出软件关闭该页面（同时会关闭软件）。**```再一次使用RunAsDate快捷方式破解进入即可```**
 
-![image](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/affa2611-2ff9-4a2b-ad03-a45957f853bd)
+![image](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/9f8780fa-cf6c-49d5-a215-8b4f4c8f14f5)
 
 > [!NOTE]
 > 补充一下：Axure为了高保真而增加了三个设计的插件，可以分别在Figma / Sketch / XD设计稿中**复制所有元素**到Axure中使用。对于新进入公司的产品，可以直接使用新公司的原UI稿进行一键全部复制以此使用该高保真设计稿，减少对项目画原型的烦恼。
