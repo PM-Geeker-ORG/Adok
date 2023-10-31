@@ -52,9 +52,11 @@
 
 > 直接到RunAsDate的官网下载该软件，或者使用本人提供的软件压缩包，该软件是绿色版，无需安装直接解压缩文件再运行exe即可。**```这是该软件简单好用的地方```**
 
+[🔅分享RunAsDate软件下载](https://github.com/PM-Geeker-ORG/Adok/raw/main/Axure%2010%20%E8%AE%A2%E9%98%85%E5%BC%8F%E7%A0%B4%E8%A7%A3/RunAsDate.zip)
+
 ![image](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/306b75fd-41c2-4f02-8c85-85deef6eb25a)
 
-[🔅RunAsDate官网](https://www.nirsoft.net/utils/run_as_date.html) &nbsp;&nbsp; [🔅点击直接下载RunAsDate软件](https://www.nirsoft.net/utils/runasdate-x64.zip)
+[🔅RunAsDate官网](https://www.nirsoft.net/utils/run_as_date.html) &nbsp;&nbsp; [🔅点击直接官方下载RunAsDate软件](https://www.nirsoft.net/utils/runasdate-x64.zip)
 
 > 打开RunAsDate软件，此时会进入该软件的操作页面，即配置修改系统时间。
 
