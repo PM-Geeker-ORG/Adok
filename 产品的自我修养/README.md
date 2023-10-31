@@ -161,7 +161,7 @@ A：产品经理是一个负责设计和管理产品的角色，他们需要了�
 
 ![image](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/0da74679-7886-4316-97ca-58b1764fe4c2)
 
-[🔅 Go -> 下载 RP10.rp 文件](https://github.com/PM-Geeker-ORG/Adok/blob/main/%E4%BA%A7%E5%93%81%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/Adok-%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83_RP10.rp)
+[🔅 Go -> 下载 RP10.rp 文件](https://github.com/PM-Geeker-ORG/Adok/raw/main/%E4%BA%A7%E5%93%81%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/Adok-%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83_RP10.rp)
 
 ---
 
@@ -362,4 +362,4 @@ SWOT分析（优势、劣势、机会、威胁）四大板块定量评分表格�
 后续发展的一些建议
 
 
-[🔅 Go -> 下载 Xmind 文件](https://github.com/PM-Geeker-ORG/Adok/blob/main/%E4%BA%A7%E5%93%81%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/Adok-PRD_%E7%B2%BE%E4%BA%8E%E5%BF%83_%E7%AE%80%E4%BA%8E%E5%BD%A2.xmind)
+[🔅 Go -> 下载 Xmind 文件](https://github.com/PM-Geeker-ORG/Adok/raw/main/%E4%BA%A7%E5%93%81%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/Adok-PRD_%E7%B2%BE%E4%BA%8E%E5%BF%83_%E7%AE%80%E4%BA%8E%E5%BD%A2.xmind)
