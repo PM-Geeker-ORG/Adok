@@ -27,7 +27,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### Puzzle Of PM  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/Puzzle%20Of%20PM))
+##### Puzzle Of PM  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/Puzzle%20Of%20PM)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
@@ -35,7 +35,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### 《100》产品思维模型  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E3%80%8A100%E3%80%8B%E4%BA%A7%E5%93%81%E6%80%9D%E7%BB%B4%E6%A8%A1%E5%9E%8B))
+##### 《100》产品思维模型  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E3%80%8A100%E3%80%8B%E4%BA%A7%E5%93%81%E6%80%9D%E7%BB%B4%E6%A8%A1%E5%9E%8B)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
