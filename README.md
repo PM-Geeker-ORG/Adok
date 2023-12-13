@@ -3,7 +3,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 
 ## 你好！我将会分享关于产品；关于哲理；关于人生的内容。
 
-##### 梁启超《如何成为一个不惑、不忧、不惧的人》 [✅点击阅读](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%A2%81%E5%90%AF%E8%B6%85%E3%80%8A%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E4%B8%8D%E6%83%91%E3%80%81%E4%B8%8D%E5%BF%A7%E3%80%81%E4%B8%8D%E6%83%A7%E7%9A%84%E4%BA%BA%E3%80%8B#%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E4%B8%8D%E6%83%91%E4%B8%8D%E5%BF%A7%E4%B8%8D%E6%83%A7%E7%9A%84%E4%BA%BA)
+##### 梁启超《如何成为一个不惑、不忧、不惧的人》 [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%A2%81%E5%90%AF%E8%B6%85%E3%80%8A%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E4%B8%8D%E6%83%91%E3%80%81%E4%B8%8D%E5%BF%A7%E3%80%81%E4%B8%8D%E6%83%A7%E7%9A%84%E4%BA%BA%E3%80%8B)
 <details>
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
@@ -11,7 +11,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### Axure 10 订阅式破解分享  [✅点击教程](https://github.com/PM-Geeker-ORG/Adok/tree/main/Axure%2010%20%E8%AE%A2%E9%98%85%E5%BC%8F%E7%A0%B4%E8%A7%A3)
+##### Axure 10 订阅式破解分享  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/Axure%2010%20%E8%AE%A2%E9%98%85%E5%BC%8F%E7%A0%B4%E8%A7%A3)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
