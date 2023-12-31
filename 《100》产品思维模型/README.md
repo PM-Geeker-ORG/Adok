@@ -21,6 +21,7 @@
 </details>
 
 ---
+<br>
 
 ### ⚡100 - 20
 
@@ -36,6 +37,7 @@
 </details>
 
 ---
+<br>
 
 ### ⚡100 - 30
 
@@ -44,13 +46,14 @@
 | GJB-军标六性职场模型 | BPET-断裂点工程学思维 | MS-安全边际理论 | PEST-宏观环境分析模型 | STH-六顶思考帽模型 |
 | PFF-波特竞争五力模型 | BCGM-波士顿矩阵模型 | WHW-黄金圈法则 | FPT-第一性原理 | PD-路径依赖理论 |
 
----
-
 <details>
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
 <img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/ab1071f4-f1a7-4eb0-b998-4b00709ba18f"></img>
 </details>
+
+---
+<br>
 
 ### ⚡100 - 40
 
@@ -59,13 +62,14 @@
 | MGRG-放大镜缩小镜思维 | PPT-二八定律思维 | TPP-金字塔论述原理 | SCQA-结构化表达分析法 | IT-问题逻辑树模型 |
 | OR-奥卡姆剃刀思维 | DE-细节效率思维模型 | WC-递弱补偿原理 | JW-乔哈里视窗模型 | SQRRR-策略性阅读法 |
 
----
-
 <details>
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
 <img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/d20bf354-3312-49a7-95e8-c1f830516f6f"></img>
 </details>
+
+---
+<br>
 
 ### ⚡100 - 50
 
@@ -74,13 +78,14 @@
 | FFC-极致赞美法则 | GROW-成长教练模型 | FE-飞轮效应理论 | BFBM-福格行为模型 | SST-沉默的螺旋模型 |
 | NSRT-非刺激反应思维模型 | AISIS-消费者行为分析模型 | IPD-集成产品开发流程 | GRAI-项目复盘模型 | ST-系统思维 |
 
----
-
 <details>
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
 <img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/b6835530-11e6-485e-b815-bdbfa82ebd88"></img>
 </details>
+
+---
+<br>
 
 ### ⚡100 - 60
 
@@ -89,13 +94,14 @@
 | 3PR-百分之三成功法则 | KISS-反思复盘模型 | SCM-战略钟模型 | 7S-麦肯锡七要素模型 | LTL-三重心智模型 |
 | WOOP-目标计划思维模型 | FT-费曼学习法模型 | KDS-卡尼曼双系统 | FM-心流模型 | TM-图尔敏论证模型 |
 
----
-
 <details>
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
 <img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/bd6689b7-e3af-4720-b78d-a2476a370a33"></img>
 </details>
+
+---
+<br>
 
 ### ⚡100 - 70
 
@@ -104,13 +110,14 @@
 | 3PR-上瘾钩子模型 | PER-峰终定律 | PERE-首因效应与近因效应 | FTLM-人生四度模型 | DSW-道法术器势志 |
 | RICE-四大需求优先级因素 | TLS-双目标清单思维 | MT-护城河理论 | DTM-双轨分析模型 | 5S-五常现场管理法 |
 
----
-
 <details>
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
 <img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/d6f19c7a-9961-4301-8506-cfed3d1041fe"></img>
 </details>
+
+---
+<br>
 
 ### ⚡100 - 80
 
@@ -119,8 +126,6 @@
 | MCT-元认知理论 | SST-课题分离 | YDL-耶克斯多德森定律 | RTM-需求三角模型 | IM-冰山思维模型 |
 | GM-成长型思维 | MVP-最小可行性产品 | MLP-最小喜爱产品 | LTE-长尾效应 | POA-行动力管理模型 |
 
----
-
 <details>
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
@@ -128,6 +133,7 @@
 </details>
 
 ---
+<br>
 
 ### ⚡100 - 90
 
@@ -136,13 +142,14 @@
 | GMIM-全科问诊思维模型 | FSE-故事关键五要素 | TOPIC-团队管理模型 | NTM-诺依曼思维模型 | CLT-木桶效应思维 |
 | RT-逆向思维 | SCOC-沉没成本与机会成本 | SFT-三明治沟通法则 | JL-吉德林法则 | ATM-反脆弱思维模型 |
 
----
-
 <details>
 <summary>🔅点击展开 - 更多内容</summary>
 <br>! 
 <img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/f134efa7-a4a4-4700-857b-3c214dff2040"></img>
 </details>
+
+---
+<br>
 
 ### ⚡100 - 100
 
@@ -158,6 +165,7 @@
 </details>
 
 ---
+<br>
 
 ### ⚡100 - 101
 
@@ -172,7 +180,6 @@
 </details>
 
 ---
-
 <br>
 
 > [!NOTE]
