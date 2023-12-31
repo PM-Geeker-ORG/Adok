@@ -35,8 +35,6 @@
 <summary>🔅产品之谜_简单探讨_VideoDisplay</summary>
 <br>
 <a href="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/40b49911-9aa9-4b66-844a-35451d2e80b9" target="_blank">产品之谜_简单探讨_VideoDisplay</a>
-<video autoplay loop>
-<source src="https://github-production-user-asset-6210df.s3.amazonaws.com/143123392/293513415-40b49911-9aa9-4b66-844a-35451d2e80b9.mp4" type="video/mp4"></video>
 </details>
 
 <br>
@@ -61,6 +59,7 @@
 
 <details>
 <summary>🔅产品之谜_简单修正_VideoDisplay</summary> 
+<br>
 <a href="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/463f3867-ec24-4959-b1d3-b96f2dfbada5 target="_blank"">产品之谜_简单修正_VideoDisplay</a>
 </details>
 
