@@ -43,7 +43,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### 《50》心理认知偏差  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E3%80%8A100%E3%80%8B%E4%BA%A7%E5%93%81%E6%80%9D%E7%BB%B4%E6%A8%A1%E5%9E%8B)
+##### 《50》心理认知偏差  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E3%80%8A50%E3%80%8B%E5%BF%83%E7%90%86%E8%AE%A4%E7%9F%A5%E5%81%8F%E5%B7%AE)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
