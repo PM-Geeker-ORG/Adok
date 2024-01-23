@@ -51,7 +51,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### 名人名言精髓语录  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E3%80%8A50%E3%80%8B%E5%BF%83%E7%90%86%E8%AE%A4%E7%9F%A5%E5%81%8F%E5%B7%AE)
+##### 名人名言精髓语录  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E5%90%8D%E4%BA%BA%E5%90%8D%E8%A8%80%E7%B2%BE%E9%AB%93%E8%AF%AD%E5%BD%95)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
@@ -60,7 +60,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### 招聘改善流程图  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E3%80%8A50%E3%80%8B%E5%BF%83%E7%90%86%E8%AE%A4%E7%9F%A5%E5%81%8F%E5%B7%AE)
+##### 招聘改善流程图  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%8B%9B%E8%81%98%E6%94%B9%E5%96%84%E6%B5%81%E7%A8%8B%E5%9B%BE)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
