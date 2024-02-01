@@ -10,6 +10,17 @@
 
 上面这些内容都不是改善招聘流程的情况，还是回到招聘改善流程图层面。流程使用Axure制作，本文以图片的展示但并不直观，因为原型中大部分以交互的形式展示，所以请打开原型使用HTML预览模式查看会更加舒适。
 
-[图片](https://123.com)
+![招聘者发布招聘信息](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/93ba2224-33f3-44c3-9f4b-1a41a4ed906b)
+
+![求职者寻找招聘信息](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/e6093358-bc86-488a-950e-c73120048671)
+
+![求职者完成投递](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/fb9b6842-cfd9-4f4f-ab55-9ab1996f0925)
+
+![招聘者处理招聘情况](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/6a1c64c9-8bab-460c-bfeb-92c8a5619cd1)
+
+![完成招聘过程](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/d58c7fb9-0b5b-4baf-85d4-6b75cae58d5b)
+
+![招聘信息到期](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/278103cd-a4e3-4b2f-8272-9099d840775e)
+
 
 全行业改革：零薪酬试工制度（人才的最强护盾）不是盲目的试工，而是确定录取进入试用期之前的试工。
