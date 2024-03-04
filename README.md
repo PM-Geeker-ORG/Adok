@@ -67,6 +67,14 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
+##### 产品经理整体架构  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84)
+<details>
+<summary>🔅点击展开 - 更多内容</summary> 
+<br>
+待更新...
+</details>
+
+---
 ##### 项目管理整体流程  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
