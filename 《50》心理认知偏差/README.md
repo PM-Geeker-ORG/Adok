@@ -28,6 +28,7 @@
 | :--- | :--- | :--- |
 | 道德运气 - MoralLuck | 错误共识 - FalseConsensus | 知识的诅咒 - CurseofKnowledge |
 | 聚光灯效应 - SpotlightEffect | 可得性启发法 - AvailabilityHeuristic | 防卫性归因 - DefensiveAttribution |
+
 <details>
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
