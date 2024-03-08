@@ -3,7 +3,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 
 ## 你好！我将会分享关于产品；关于哲理；关于人生的内容。
 
-##### 梁启超《如何成为一个不惑、不忧、不惧的人》 [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%A2%81%E5%90%AF%E8%B6%85%E3%80%8A%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E4%B8%8D%E6%83%91%E3%80%81%E4%B8%8D%E5%BF%A7%E3%80%81%E4%B8%8D%E6%83%A7%E7%9A%84%E4%BA%BA%E3%80%8B)
+##### 梁启超《如何成为一个不惑、不忧、不惧的人》  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%A2%81%E5%90%AF%E8%B6%85%E3%80%8A%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E4%B8%8D%E6%83%91%E3%80%81%E4%B8%8D%E5%BF%A7%E3%80%81%E4%B8%8D%E6%83%A7%E7%9A%84%E4%BA%BA%E3%80%8B)
 <details>
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
@@ -80,4 +80,12 @@ I Am A PM Who Will Change The World Even Will Failure.
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
 产品总是附属于一个个项目之中，项目对产品人来讲是一个十分熟悉不过的东西，所以这里将项目管理单独提炼出来作为一个模块，以此来观察项目中每一个流程节点的<strong>时空分布</strong>。一般流程图最主要的三大要素是<strong>人员、阶段和事件</strong>，所以项目管理的流程图也不例外，项目中涉及哪些人员？项目中有哪些阶段？在什么时候做什么事？这些都能够在流程图中体现出来。项目管理简单概况就是项目要有计划管理要有方法，从产品的角度看一个项目时我们需要注意唯一不变的是其始终是变化的，所以不需要困惑临时的阻碍，而要在项目中<strong>学会适应随时的断流</strong>。
+</details>
+
+---
+##### 小红书运营地图  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%BF%90%E8%90%A5%E5%9C%B0%E5%9B%BE)
+<details>
+<summary>🔅点击展开 - 更多内容</summary> 
+<br>
+待续...
 </details>
