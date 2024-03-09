@@ -8,7 +8,7 @@ Q：世界为什么需要产品经理？
 
 A：产品经理是一个负责设计和管理产品的角色，他们需要了解用户的需求，分析市场的趋势，制定产品的目标和策略，协调开发和运营团队，不断优化和迭代产品，为用户提供更好的体验和价值。**```世界为什么需要产品经理呢？```** 因为产品经理可以**帮助创造更多有用、有趣、有影响力的产品，解决用户的痛点，满足用户的期望，推动社会的进步和创新**。
 
-![产品的自我修养](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/45b79be7-a76e-4518-b89c-08b9f8589be0)
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/45b79be7-a76e-4518-b89c-08b9f8589be0)
 
 ---
 <br>
@@ -170,7 +170,7 @@ A：产品经理是一个负责设计和管理产品的角色，他们需要了�
 
 **✅ 商业模式画布预览**
 
-![Adok-商业模式画布](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/d2794ce9-0f36-4f22-9fff-ddfab4c9cee6)
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/d2794ce9-0f36-4f22-9fff-ddfab4c9cee6)
 
 [🔅 Go -> 下载 RP10.rp 文件](https://github.com/PM-Geeker-ORG/Adok/raw/main/%E4%BA%A7%E5%93%81%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/Adok-%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83_RP10.rp)
 
@@ -497,7 +497,7 @@ A：产品经理是一个负责设计和管理产品的角色，他们需要了�
 
 **✅ PRD - 细化思维**
 
-![Adok-PRD_精于心_简于形](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/849521b9-e86d-45e2-bed0-b2ae8d1f1553)
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/849521b9-e86d-45e2-bed0-b2ae8d1f1553)
 
 [🔅 Go -> 下载 Xmind 文件](https://github.com/PM-Geeker-ORG/Adok/raw/main/%E4%BA%A7%E5%93%81%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/Adok-PRD_%E7%B2%BE%E4%BA%8E%E5%BF%83_%E7%AE%80%E4%BA%8E%E5%BD%A2.xmind)
 
