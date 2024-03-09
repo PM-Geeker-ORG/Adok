@@ -16,7 +16,7 @@
 
 **```项目启动 - 阶段立项 - 评审组建项目组 - 产品设计 - 阶段UI/架构设计阶段 - 研发阶段 - 测试阶段 - 上线阶段 - 试运行阶段 - 验收阶段 - 结案阶段 - 运维阶段```**
 
-![20240308200010](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/e9e214e9-1e98-4cc9-9480-4b15c93f9666)
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/e9e214e9-1e98-4cc9-9480-4b15c93f9666)
 
 ---
 

@@ -35,7 +35,7 @@
 
 就这样，我的谜团诞生了。然后我带着我的产品之谜继续在社会里沉浸，渴望有一个答案。
 
-![产品之谜_简单探讨](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/c874219c-6bba-40a2-96df-2dcb21e299e7)
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/c874219c-6bba-40a2-96df-2dcb21e299e7)
 
 <details>
 <summary>🔅产品之谜_简单探讨_VideoDisplay</summary>
@@ -63,7 +63,7 @@
 >
 > 改变世界的梦想家，恐怕会让人读起来充满理想主义者的空想味道。但是需要申明一个前提，这里的改变世界是真切的行动，梦想是远大的目标，所以这里应该准确地定义为理想现实主义者，即将理想努力化作现实的人。
 
-![产品之谜_简单修正](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/d050869a-7d60-46ae-9d0c-4448bccf63ee)
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/d050869a-7d60-46ae-9d0c-4448bccf63ee)
 
 <details>
 <summary>🔅产品之谜_简单修正_VideoDisplay</summary> 

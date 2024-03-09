@@ -25,13 +25,13 @@
 
 [🔅Axure官网](https://www.axure.com)
 
-![image](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/6bbc4052-a373-4116-8de2-7af52d3eddd6)
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/6bbc4052-a373-4116-8de2-7af52d3eddd6)
 
 > 由于Axure10目前是Axure公司的明星产品，所以其版本更新比较快，更多优化和更新的情况可以查看全部版本历史的版本更新说明，也算简单了解Axure10产品的迭代情况。文字写到这里Axure10版本为 **```Axure RP 10.0.0.3905```**
 
 [🔅Axure官网-版本历史](https://www.axure.com/release-history)
 
-![image](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/d85db19a-3abc-4bca-bec5-b547e7e6cf80)
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/d85db19a-3abc-4bca-bec5-b547e7e6cf80)
 
 > 如果使用Axure8/9的用户，可能没有Axure账号，这时候需要进行账号的注册，而Axure账号注册十分简单，总结来说就是一个邮箱账号即可。这个账号同时是Axure10软件使用、分享HTML原型链接和团队协同的账号。**```此时请记住该账号的注册日期```**
 
@@ -39,7 +39,7 @@
 
 [🔅Axure Cloud官网](https://app.axure.cloud/app)
 
-![image](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/4874d833-c2bb-4d48-93ae-e5c4920285dd)
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/4874d833-c2bb-4d48-93ae-e5c4920285dd)
 
 > ✅ Axure10软件下载完成后，直接点击安装即可。初次进入软件会提示联网登录账号，会进行跳转浏览器进行账号登录！
 
@@ -54,7 +54,7 @@
 
 [🔅分享RunAsDate软件下载](https://github.com/PM-Geeker-ORG/Adok/raw/main/Axure%2010%20%E8%AE%A2%E9%98%85%E5%BC%8F%E7%A0%B4%E8%A7%A3/RunAsDate.zip)
 
-![image](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/306b75fd-41c2-4f02-8c85-85deef6eb25a)
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/306b75fd-41c2-4f02-8c85-85deef6eb25a)
 
 [🔅RunAsDate官网](https://www.nirsoft.net/utils/run_as_date.html) &nbsp;&nbsp; [🔅点击直接官方下载RunAsDate软件](https://www.nirsoft.net/utils/runasdate-x64.zip)
 
@@ -69,11 +69,11 @@
 4. 勾选运行程序后时间继续走动；在运行程序后多久恢复实际时间（时间设置10-20秒左右-建议10秒）
 5. 为快捷方式定义一个名称后，点击创建桌面快捷方式，此时该快捷方式会在桌面生成
 
-![RunAsDate](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/5a9c7d4f-f6f1-4feb-83ea-4d680fb01377)
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/5a9c7d4f-f6f1-4feb-83ea-4d680fb01377)
 
 > 如果旧账号过了30天使用期则会出现弹窗，且无法进入Axure10软件。下方图片为试用订阅到期的情况，如果使用RunAsDate中出现什么问题，并遇到订阅过期的弹窗提醒，直接点击退出软件关闭该页面（同时会关闭软件）。**```再一次使用RunAsDate快捷方式破解进入即可```**
 
-![image](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/9f8780fa-cf6c-49d5-a215-8b4f4c8f14f5)
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/9f8780fa-cf6c-49d5-a215-8b4f4c8f14f5)
 
 > [!NOTE]
 > 补充一下：Axure为了高保真而增加了三个设计的插件，可以分别在Figma / Sketch / XD设计稿中**复制所有元素**到Axure中使用。对于新进入公司的产品，可以直接使用新公司的原UI稿进行一键全部复制以此使用该高保真设计稿，减少对项目画原型的烦恼。
@@ -91,7 +91,7 @@ Axure10如果想修正这个订阅式的漏洞，同时维持软件本身的本�
 
 当软件在使用时，则会定时地循环更新软件的总使用时间，一旦判断为过期，则提醒该账号已到期，并需要重新登录新账号或者重新续订，此时就必须再次联网才能完成认证，**同时存储该账号不能试用订阅的属性值**。这样一来，使用RunAsDate进行破解时，本地安装版软件被破解的问题也**无法破解**了，但是总使用时间这个设置会延长最终的到期时间，因为没有人会每天24小时都在使用Axure，所以可以适当缩短一下使用总时长的值（使用时间一天设置为12小时）。但是我也很好奇，为什么Axure目前没有这样做，可能是一种策略，故意让我们破解，后续等Axure10慢慢普及了，再修复该漏洞。但是**旧版本的Axure10依旧可以使用该破解方法**，只要不进行软件的更新。
 
-![image](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/954044af-fede-4091-9820-408ecea5e941)
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/954044af-fede-4091-9820-408ecea5e941)
 
 最后我还有一个好奇，Axure官网有一个Axure历史版本管理的下载页面，我们是可以下载旧版本的软件，所以后续Axure官方应该也会关闭这个版本历史管理的下载页面，**```只留一个最新版本下载的按钮了```**
 
