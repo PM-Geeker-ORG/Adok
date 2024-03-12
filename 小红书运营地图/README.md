@@ -1,21 +1,30 @@
 # 小红书运营地图
-产品上线后并不算结束，反而是刚刚开始，后续需要进行运营管理。所以产品人对运营理应十分关注。同时我对小红书突然的兴起感兴趣，所以好奇小红书的运营逻辑规则。
-
-## 运营还需实际践行
-
+产品上线后并不算结束，反而是刚刚开始，后续需要进行运营管理，甚至有些产品的成功更多情况是倾向运营。所以产品人对运营理应十分关注。同时我对小红书突然的兴起感兴趣，所以好奇小红书的运营逻辑规则。
+小红书的运营一共分为6大模块，从用户的角度去运营小红书同时也很好地表现出小红色自身的运营模式情况，针对性的市场定位和策略性的品牌定位共同铸就其独特的价值，
 小红书的成功甚至可以成为一个运营的小小参考案例。
+运营计划多好都是一样还需实际践行。
 
-内容来源于网上的分享，是前辈们的精华之作。
+---
 
+> [!NOTE]
+> 内容来源于网上的分享，是前辈们的精华之作，知识面比较丰富而且内容具体，是值得品味的运营手册。我也是抱着学习的心态去整理和绘制该运营地图，能够从中了解到小红书的运营情况，以此作为模板去衡量其他的产品也不足为奇。
 
-![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/213501bc-8c27-4f63-9217-702b422673cd)
+---
 
-![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/0e821831-4b63-471c-81cf-2d76d66253d7)
+**账号定位：**
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/9bb7efb9-d1b4-4cfb-a58c-f2d6bfb9f4a5)
 
-![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/7525a41c-8b15-41a1-beb7-a63087ea79b0)
+**内容运营：**
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/890e6712-2fc7-47c1-a625-96708033bfdf)
 
-![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/0a13836b-021a-4461-a51c-c4db3b6c215f)
+**曝光策略：**
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/7046245a-d7ee-43df-b810-ea6cfe0acf8b)
 
-![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/754b4362-66cb-4b54-90ca-3f48d4b99c20)
+**平台规则：**
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/19b3cc3a-2ce3-4a31-9ec5-31807b2b29e2)
 
-![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/ec979692-a934-4257-afc7-1f0084595862)
+**店铺运营：**
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/a6e1f602-70b8-42dc-a6c9-a1969f5f3580)
+
+**团队搭建：**
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/cb827036-6c29-4f63-a7d4-ac897a35d48a)
