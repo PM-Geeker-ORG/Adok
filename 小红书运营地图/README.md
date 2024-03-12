@@ -11,20 +11,20 @@
 
 ---
 
-**账号定位：**
+**账号定位：哪个才是你？**
 ![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/9bb7efb9-d1b4-4cfb-a58c-f2d6bfb9f4a5)
 
-**内容运营：**
+**内容运营：你拥有什么？**
 ![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/890e6712-2fc7-47c1-a625-96708033bfdf)
 
-**曝光策略：**
+**曝光策略：怎么展示你？**
 ![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/7046245a-d7ee-43df-b810-ea6cfe0acf8b)
 
-**平台规则：**
+**平台规则：什么约束你？**
 ![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/19b3cc3a-2ce3-4a31-9ec5-31807b2b29e2)
 
-**店铺运营：**
+**店铺运营：你该怎么做？**
 ![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/a6e1f602-70b8-42dc-a6c9-a1969f5f3580)
 
-**团队搭建：**
+**团队搭建：谁支持着你？**
 ![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/cb827036-6c29-4f63-a7d4-ac897a35d48a)
