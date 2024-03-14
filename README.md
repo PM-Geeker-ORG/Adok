@@ -3,7 +3,11 @@ I Am A PM Who Will Change The World Even Will Failure.
 
 ## 你好！我将会分享关于产品；关于哲理；关于人生的内容。
 
-##### 梁启超《如何成为一个不惑、不忧、不惧的人》  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%A2%81%E5%90%AF%E8%B6%85%E3%80%8A%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E4%B8%8D%E6%83%91%E3%80%81%E4%B8%8D%E5%BF%A7%E3%80%81%E4%B8%8D%E6%83%A7%E7%9A%84%E4%BA%BA%E3%80%8B)
+💥 非常重要 &nbsp;&nbsp; ♻️ 持续更新 &nbsp;&nbsp; ✴️ 可能更新 &nbsp;&nbsp; 🆗 已完成 &nbsp;&nbsp; ✝️ 进行中
+
+---
+
+##### 🆗 梁启超《如何成为一个不惑、不忧、不惧的人》  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%A2%81%E5%90%AF%E8%B6%85%E3%80%8A%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E4%B8%8D%E6%83%91%E3%80%81%E4%B8%8D%E5%BF%A7%E3%80%81%E4%B8%8D%E6%83%A7%E7%9A%84%E4%BA%BA%E3%80%8B)
 <details open="True">
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
@@ -11,7 +15,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### Axure 10 订阅式破解分享  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/Axure%2010%20%E8%AE%A2%E9%98%85%E5%BC%8F%E7%A0%B4%E8%A7%A3)
+##### 🆗 Axure 10 订阅式破解分享  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/Axure%2010%20%E8%AE%A2%E9%98%85%E5%BC%8F%E7%A0%B4%E8%A7%A3)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
@@ -19,7 +23,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### 产品的自我修养  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E4%BA%A7%E5%93%81%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB)
+##### ✴️ 产品的自我修养  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E4%BA%A7%E5%93%81%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
@@ -27,7 +31,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### Puzzle Of PM  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/Puzzle%20Of%20PM)
+##### 💥 Puzzle Of PM  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/Puzzle%20Of%20PM)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
@@ -35,7 +39,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### 《100》产品思维模型  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E3%80%8A100%E3%80%8B%E4%BA%A7%E5%93%81%E6%80%9D%E7%BB%B4%E6%A8%A1%E5%9E%8B)
+##### 🆗 《100》产品思维模型  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E3%80%8A100%E3%80%8B%E4%BA%A7%E5%93%81%E6%80%9D%E7%BB%B4%E6%A8%A1%E5%9E%8B)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
@@ -43,7 +47,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### 《50》心理认知偏差  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E3%80%8A50%E3%80%8B%E5%BF%83%E7%90%86%E8%AE%A4%E7%9F%A5%E5%81%8F%E5%B7%AE)
+##### 🆗 《50》心理认知偏差  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E3%80%8A50%E3%80%8B%E5%BF%83%E7%90%86%E8%AE%A4%E7%9F%A5%E5%81%8F%E5%B7%AE)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
@@ -51,7 +55,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### 名人名言精髓语录  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E5%90%8D%E4%BA%BA%E5%90%8D%E8%A8%80%E7%B2%BE%E9%AB%93%E8%AF%AD%E5%BD%95)
+##### ♻️ 名人名言精髓语录  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E5%90%8D%E4%BA%BA%E5%90%8D%E8%A8%80%E7%B2%BE%E9%AB%93%E8%AF%AD%E5%BD%95)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
@@ -59,7 +63,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### 名书速读总结笔记  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E5%90%8D%E4%B9%A6%E9%80%9F%E8%AF%BB%E6%80%BB%E7%BB%93%E7%AC%94%E8%AE%B0)
+##### ✝️ 名书速读总结笔记  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E5%90%8D%E4%B9%A6%E9%80%9F%E8%AF%BB%E6%80%BB%E7%BB%93%E7%AC%94%E8%AE%B0)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
@@ -67,7 +71,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### 招聘改善流程图  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%8B%9B%E8%81%98%E6%94%B9%E5%96%84%E6%B5%81%E7%A8%8B%E5%9B%BE)
+##### 🆗 招聘改善流程图  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%8B%9B%E8%81%98%E6%94%B9%E5%96%84%E6%B5%81%E7%A8%8B%E5%9B%BE)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
@@ -75,7 +79,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### 产品经理整体架构  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84)
+##### 🆗 产品经理整体架构  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
@@ -83,7 +87,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### 项目管理整体流程  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B)
+##### 🆗 项目管理整体流程  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
@@ -91,7 +95,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### 小红书运营地图  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%BF%90%E8%90%A5%E5%9C%B0%E5%9B%BE)
+##### 🆗 小红书运营地图  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%BF%90%E8%90%A5%E5%9C%B0%E5%9B%BE)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
@@ -99,7 +103,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### 架构图集合分享  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%9E%B6%E6%9E%84%E5%9B%BE%E9%9B%86%E5%90%88%E5%88%86%E4%BA%AB)
+##### ✝️ 架构图集合分享  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%9E%B6%E6%9E%84%E5%9B%BE%E9%9B%86%E5%90%88%E5%88%86%E4%BA%AB)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
@@ -107,7 +111,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### 思维导图杂锦分享  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E6%9D%82%E9%94%A6%E5%88%86%E4%BA%AB)
+##### ✝️ 思维导图杂锦分享  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E6%9D%82%E9%94%A6%E5%88%86%E4%BA%AB)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
