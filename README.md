@@ -59,6 +59,14 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
+##### 名书速读总结笔记  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E5%90%8D%E4%B9%A6%E9%80%9F%E8%AF%BB%E6%80%BB%E7%BB%93%E7%AC%94%E8%AE%B0)
+<details>
+<summary>🔅点击展开 - 更多内容</summary> 
+<br>
+待续...
+</details>
+
+---
 ##### 招聘改善流程图  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%8B%9B%E8%81%98%E6%94%B9%E5%96%84%E6%B5%81%E7%A8%8B%E5%9B%BE)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
@@ -92,6 +100,14 @@ I Am A PM Who Will Change The World Even Will Failure.
 
 ---
 ##### 架构图集合分享  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%9E%B6%E6%9E%84%E5%9B%BE%E9%9B%86%E5%90%88%E5%88%86%E4%BA%AB)
+<details>
+<summary>🔅点击展开 - 更多内容</summary> 
+<br>
+待续...
+</details>
+
+---
+##### 思维导图杂锦分享  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E6%9D%82%E9%94%A6%E5%88%86%E4%BA%AB)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
