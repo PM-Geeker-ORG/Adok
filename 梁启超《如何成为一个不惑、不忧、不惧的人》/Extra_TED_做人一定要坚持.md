@@ -10,7 +10,7 @@
 
 | EN - 英文内容 | CH - 中文内容 |
 | :-- | :-- |
-| It's an urge | 这是一种冲动 |
+| It's an urge | 这是一种冲劲 |
 | Truth be told | 实话实说 |
 | Every champion has felt it | 每一位冠军都能感受到 |
 | Every president has felt it | 每一位总统都能感受到 |
