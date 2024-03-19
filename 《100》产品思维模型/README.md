@@ -20,7 +20,7 @@
 <details open="True">
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
-<img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/b6ba262f-4fe3-43aa-9f12-e054faef86f4"></img>
+<img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/dd75c150-b59e-4e07-b2b1-f4b27e006484"></img>
 </details>
 
 ---
