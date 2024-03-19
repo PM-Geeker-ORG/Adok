@@ -63,11 +63,11 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### ✝️ 名书速读总结笔记  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E5%90%8D%E4%B9%A6%E9%80%9F%E8%AF%BB%E6%80%BB%E7%BB%93%E7%AC%94%E8%AE%B0)
+##### ♻️ 名书速读总结笔记  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E5%90%8D%E4%B9%A6%E9%80%9F%E8%AF%BB%E6%80%BB%E7%BB%93%E7%AC%94%E8%AE%B0)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
-待续...
+书籍对每个人来说都极其重要，甚至每个人的差异归根到底就是<strong>读书量的差异</strong>。每本书里面都是一个世界，有些是知识的世界，有些是精神的世界，其共同点是书中的内容都是时间的瑰宝，同时也是作者智慧的心血。书籍一直以来都是人类进步的阶梯，我们在踏步阶梯时我们也会站得更高，所以希望我们某天也能为这延申的阶梯<strong>奉献建设的力量</strong>。这里我将分享我感兴趣同时主要是关于励志、正能量、努力奋斗的书籍笔记，总结书本中的核心思想语句，在此期间我也开阔了我的认知世界，原来我们现在遇到的问题早已成为<strong>前人解决的答案</strong>。读书的人不在意书中自有的黄金屋，也不在意书中自有的颜如玉！
 </details>
 
 ---
