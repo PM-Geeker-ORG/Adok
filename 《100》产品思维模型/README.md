@@ -170,16 +170,18 @@
 ---
 <br>
 
-### ⚡100 - 101
+### ⚡100 - 102
 
 | 模型名称 | 最后忠告 |
 | :--- | :--- |
 | MHT-马斯洛锤子理论 | 思维模型虽然具备一般性，但也是具备非全面性的一种主观与客观结合的发明，所有思维模型均需要结合实际情况和反复思考来运用其意义！ |
+| BS-头脑风暴 | 😊 这是继续追加 102 |
+
 
 <details>
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
-<img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/9946845e-1eba-4c6b-991b-14c5be9ba806"></img>
+<img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/ff6898c7-fb99-47e8-9e21-4fd1d0ad6b47"></img>
 </details>
 
 ---
