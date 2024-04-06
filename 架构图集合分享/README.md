@@ -7,7 +7,6 @@
 > 😊 **内容持续更新中...**
 
 ---
-
 <br>
 
 **⚡Aliyun架构**：关于阿里云平台的架构
@@ -16,4 +15,15 @@
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
 <img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/485d79c7-62d7-4f61-8bda-260696b24ec8"></img>
+</details>
+
+---
+<br>
+
+**⚡数据中台架构**：关于数据中台的一般架构
+
+<details>
+<summary>🔅点击展开 - 更多内容</summary>
+<br>
+<img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/aea7bf7a-f618-4691-8513-305dc4d229f1"></img>
 </details>
