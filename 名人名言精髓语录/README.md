@@ -1,4 +1,5 @@
-![image](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/c3d18afc-9541-4f50-8bf6-fc0f7132b017)# 名人名言精髓语录
+# 名人名言精髓语录
+
 内容来自作者（🎗️感谢）：**名言語錄QUOTES**  ➡️  访问链接 [Go -> 视频内容](https://www.youtube.com/@BestwisdomQuotes)
 
 ---
