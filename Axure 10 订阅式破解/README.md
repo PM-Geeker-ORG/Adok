@@ -93,7 +93,7 @@ Axure10如果想修正这个订阅式的漏洞，同时维持软件本身的本�
 
 还有一个更简单而过激的方法，每次使用Axure必须进行联网的判断，否则禁用，即不允许无网络使用Axure。
 
-![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/954044af-fede-4091-9820-408ecea5e941)
+![Adok](https://github.com/PM-Geeker-ORG/Adok/assets/143123392/d954f03c-ba3a-47c2-a177-656b3e409f0d)
 
 最后我还有一个好奇，Axure官网有一个Axure历史版本管理的下载页面，我们是可以下载旧版本的软件，所以后续Axure官方应该也会关闭这个版本历史管理的下载页面，**```只留一个最新版本下载的按钮了```**
 
