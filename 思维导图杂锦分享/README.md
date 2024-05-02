@@ -34,5 +34,5 @@
 <details>
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
-<img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/a62c75d6-0618-4412-9546-2797c3348dac"></img>
+<img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/a159582c-7689-4a6b-81cd-2fcbab8b47ca"></img>
 </details>
