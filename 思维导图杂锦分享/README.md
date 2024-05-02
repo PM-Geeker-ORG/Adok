@@ -25,3 +25,14 @@
 <br>
 <img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/a62c75d6-0618-4412-9546-2797c3348dac"></img>
 </details>
+
+---
+<br>
+
+**⚡产品六进程+八能力**：关于产品设计方法和思路
+
+<details>
+<summary>🔅点击展开 - 更多内容</summary>
+<br>
+<img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/a62c75d6-0618-4412-9546-2797c3348dac"></img>
+</details>
