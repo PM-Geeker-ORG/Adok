@@ -36,3 +36,14 @@
 <br>
 <img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/a159582c-7689-4a6b-81cd-2fcbab8b47ca"></img>
 </details>
+
+---
+<br>
+
+**⚡七维度竞品分析**：关于竞品分析的七个维度情况
+
+<details>
+<summary>🔅点击展开 - 更多内容</summary>
+<br>
+<img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/a159582c-7689-4a6b-81cd-2fcbab8b47ca"></img>
+</details>
