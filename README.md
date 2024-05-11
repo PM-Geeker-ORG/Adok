@@ -125,3 +125,36 @@ I Am A PM Who Will Change The World Even Will Failure.
 <br>
 作为产品经理，最最最基础的本领就是画RP原型图，如果可以输出高保真原型图，更是原型的佼佼者，毕竟在开发之前已经可以<strong>提前演示</strong>。原型工具我还是推荐使用Axure，确实是<strong>最强大的久经沙场的老将</strong>，只要我们花多点心思熟练使用Axure便会成为高保真原型制作者。所以，原型图必须要高保真，在绘画原型图期间你就会将所有页面布局和功能细节的闭环考虑周全，因为高保真需要你考虑所有的情况以致于不会遗失Case，这会不会太浪费时间了？是的，但是这些时间会在你项目后续中<strong>超额地节省</strong>回来。原型工具是产品的老朋友之一，在原型途中产品的脑海思维自由奔放和汇聚，正是<strong>化想象为现实</strong>的时间反应。
 </details>
+
+---
+##### ✝️ 数据分析流程地图  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%B5%81%E7%A8%8B%E5%9C%B0%E5%9B%BE)
+<details>
+<summary>🔅点击展开 - 更多内容</summary> 
+<br>
+待续中...
+</details>
+
+---
+##### ✝️ 优秀 UI 设计建议  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E4%BC%98%E7%A7%80%20UI%20%E8%AE%BE%E8%AE%A1%E5%BB%BA%E8%AE%AE)
+<details>
+<summary>🔅点击展开 - 更多内容</summary> 
+<br>
+待续中...
+</details>
+
+---
+##### ✝️ 工作效率资源分享  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB)
+<details>
+<summary>🔅点击展开 - 更多内容</summary> 
+<br>
+待续中...
+</details>
+
+---
+---
+##### ✝️ AGI 时代总动员  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/AGI%20%E6%97%B6%E4%BB%A3%E6%80%BB%E5%8A%A8%E5%91%98)
+<details>
+<summary>🔅点击展开 - 更多内容</summary> 
+<br>
+待续中...
+</details>
