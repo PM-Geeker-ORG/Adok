@@ -132,7 +132,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 </details>
 
 ---
-##### ✝️ 数据分析流程地图  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%B5%81%E7%A8%8B%E5%9C%B0%E5%9B%BE)
+##### 🆗 数据分析流程地图  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%B5%81%E7%A8%8B%E5%9C%B0%E5%9B%BE)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
