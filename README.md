@@ -161,5 +161,5 @@ I Am A PM Who Will Change The World Even Will Failure.
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
-待续中...
+COVID-19的时代之前与之后，是一个重要的世界观切换篇章，推动AI前进的静默者们依然在暗地里忙碌，那时的世界并未AI产生莫大的暗涌。而随着ChatGPT浪潮的到来，阳光下的这股涌浪大家都亲眼目睹，恍惚间世界大多数人像觉醒了一样，AGI居然成为一个敢想象的思维范式了。理想化的AI时代真的会成为现实吗？AGI成为了一个信仰，我们的未来将会焕然一新，而我们都是时代的见证者。待续中...
 </details>
