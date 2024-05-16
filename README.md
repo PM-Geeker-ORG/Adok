@@ -145,7 +145,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
-待续中...
+懂UI的产品才是好产品。乔布斯对产品的定义是：科技+艺术，所以Iphone在这两处的中间诞生了。待续中...
 </details>
 
 ---
@@ -153,7 +153,7 @@ I Am A PM Who Will Change The World Even Will Failure.
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
-待续中...
+工作需要效率，效率除了练习熟练度之余，还能通过外部效率工具给予提升，特别是Ai崛起的新时代，有时候需要改变自己的办公范式。待续中...
 </details>
 
 ---
