@@ -1,5 +1,5 @@
 # Adok
-I Am A PM Who Will Change The World Even Will Failure.
+A Dream OK ? I Am A PM Who Will Change The World Even He Will Fail ...
 
 ## 你好！我将会分享关于产品；关于哲理；关于人生的内容。
 
@@ -138,7 +138,6 @@ I Am A PM Who Will Change The World Even Will Failure.
 <br>
 数据分析是一个重要的领域，不同的行业性质需要分析的数据各异，但是数据分析的流程却是<strong>相通</strong>的，最后都是为一些特定的问题建立特定的模型，让我们<strong>目睹现在的产品状况</strong>和<strong>指导未来的产品方向</strong>。首先，数据分析是为了产品优化而不是为了工作汇报，那些只因工作汇报需要而粗略得到一个简单的某某率，它是对数据分析的贬损。数据分析从学术上来说是严谨的科学实验，从产品上来说则是重新认识产品的<strong>解剖手术</strong>，所以其流程必须注重合理的规范化。但是切勿本末倒置，数据分析只是产品的营养补品，而流程是营养补品的服用方式，重点是你需要发现一个<strong>缺失营养的产品问题</strong>。
 </details>
-
 
 ---
 ##### ✝️ 优秀 UI 设计建议  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E4%BC%98%E7%A7%80%20UI%20%E8%AE%BE%E8%AE%A1%E5%BB%BA%E8%AE%AE)
