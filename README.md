@@ -140,7 +140,7 @@ A Dream OK ? I Am A PM Who Will Change The World Even He Will Fail ...
 </details>
 
 ---
-##### ✝️ 优秀 UI 设计建议  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E4%BC%98%E7%A7%80%20UI%20%E8%AE%BE%E8%AE%A1%E5%BB%BA%E8%AE%AE)
+##### ✴️ 优秀 UI 设计建议  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E4%BC%98%E7%A7%80%20UI%20%E8%AE%BE%E8%AE%A1%E5%BB%BA%E8%AE%AE)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
