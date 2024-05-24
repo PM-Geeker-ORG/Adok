@@ -156,7 +156,7 @@ A Dream OK ? I Am A PM Who Will Change The World Even He Will Fail ...
 </details>
 
 ---
-##### ✝️ AGI 时代总动员  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/AGI%20%E6%97%B6%E4%BB%A3%E6%80%BB%E5%8A%A8%E5%91%98)
+##### ♻️ AGI 时代总动员  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/AGI%20%E6%97%B6%E4%BB%A3%E6%80%BB%E5%8A%A8%E5%91%98)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
