@@ -27,3 +27,25 @@
 <br>
 <img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/aea7bf7a-f618-4691-8513-305dc4d229f1"></img>
 </details>
+
+---
+<br>
+
+**⚡支付系统架构**：关于支付系统的一般架构
+
+<details>
+<summary>🔅点击展开 - 更多内容</summary>
+<br>
+<img src=""></img>
+</details>
+
+---
+<br>
+
+**⚡自动驾驶体系架构**：关于自动驾驶体系的一般架构
+
+<details>
+<summary>🔅点击展开 - 更多内容</summary>
+<br>
+<img src=""></img>
+</details>
