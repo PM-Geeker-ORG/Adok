@@ -49,3 +49,13 @@
 <br>
 <img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/58c30329-84fc-4cf5-a0f6-b6c8e137fd89"></img>
 </details>
+---
+<br>
+
+**⚡政务体系平台架构**：关于政务体系平台的一般架构
+
+<details>
+<summary>🔅点击展开 - 更多内容</summary>
+<br>
+<img src=""></img>
+</details>
