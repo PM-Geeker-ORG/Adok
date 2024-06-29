@@ -69,7 +69,7 @@
 <details>
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
-<img src=""></img>
+<img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/7b837e61-6ef7-4e84-bb50-b7a32c75faad"></img>
 </details>
 
 ---
@@ -80,5 +80,5 @@
 <details>
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
-<img src=""></img>
+<img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/7b33996d-a8ba-44d6-8579-17c97219552a"></img>
 </details>
