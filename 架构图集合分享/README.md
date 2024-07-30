@@ -75,10 +75,30 @@
 ---
 <br>
 
-**⚡微服务架构**：关于微服务的一般架构
+**⚡微服务项目架构**：关于微服务项目层面的一般架构
 
 <details>
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
 <img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/7b33996d-a8ba-44d6-8579-17c97219552a"></img>
+</details>
+---
+<br>
+
+**⚡Ai产品经理架构**：关于Ai产品经理的一般架构
+
+<details>
+<summary>🔅点击展开 - 更多内容</summary>
+<br>
+<img src=""></img>
+</details>
+---
+<br>
+
+**⚡微服务软件架构**：关于微服务软件层面的一般架构
+
+<details>
+<summary>🔅点击展开 - 更多内容</summary>
+<br>
+<img src=""></img>
 </details>
