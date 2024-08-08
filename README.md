@@ -164,7 +164,7 @@ COVID-19的时代之前与之后，是一个重要的世界观切换篇章，推
 </details>
 
 ---
-##### ♻️ 企业使命愿景价值观  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E4%BC%81%E4%B8%9A%E4%BD%BF%E5%91%BD%E6%84%BF%E6%99%AF%E4%BB%B7%E5%80%BC%E8%A7%82)
+##### ✝️ 企业使命愿景价值观  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E4%BC%81%E4%B8%9A%E4%BD%BF%E5%91%BD%E6%84%BF%E6%99%AF%E4%BB%B7%E5%80%BC%E8%A7%82)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
