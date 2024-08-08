@@ -162,3 +162,11 @@ A Dream OK ? I Am A PM Who Will Change The World Even He Will Fail ...
 <br>
 COVID-19的时代之前与之后，是一个重要的世界观切换篇章，推动AI前进的静默者们依然在暗地里忙碌，那时的AI世界并未产生莫大的暗涌。而随着<strong>ChatGPT浪潮</strong>的到来，阳光下的这股涌浪大家都亲眼目睹，恍惚间世界大多数人像觉醒了一样，AGI居然成为一个敢想象的思维范式了。理想化的AI时代真的会成为现实吗？时间会给出最终的答复。疯狂的我们<strong>追逐着AGI时代信仰</strong>，我们的未来将会焕然一新，而我们都是<strong>时代的见证者</strong>。跨越时代的变革者，坐享其成并未能获得乐趣，化身推动者才能感受到其中的成就感，所以做一位AGI时代总动员吧，其中不乏我的蹒跚。未来一直都在变得更美好，因为历史它告诉了我们，将来的历史也会告诉我们：<strong>人工智能只是宇宙飞船，人类才是目的地</strong>。
 </details>
+
+---
+##### ♻️ 企业使命愿景价值观  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/%E4%BC%81%E4%B8%9A%E4%BD%BF%E5%91%BD%E6%84%BF%E6%99%AF%E4%BB%B7%E5%80%BC%E8%A7%82)
+<details>
+<summary>🔅点击展开 - 更多内容</summary> 
+<br>
+企业这两个字是一种敬意，因为企业是使命、愿景和价值观的集合体。希望从不同企业文化中体验和验证一家企业的内涵。待续中...
+</details>
