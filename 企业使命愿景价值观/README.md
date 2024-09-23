@@ -12,11 +12,13 @@
 | :---: |
 | |
 | 使命 |
-| **使命** |
+| **To bringing the best user experience to customers through innovative hardware, software, and services.**<br>**通过创新的硬件、软件和服务为客户带来最佳的用户体验。** |
 | 愿景 |
-| **愿景** |
+| **To make the best products on earth and to leave the world better than we found it.**<br>**制造地球上最好的产品，让世界变得比我们发现时更好。** |
 | 价值观 |
-| **价值观** |
+| **Accessibility.** 易用性<br>**Support education.** 支持教育<br>**A planet-sized plan.** 一个地球大小的计划（碳中和）<br>**We’re all in.** 我们全力以赴<br>**Privacy is a human right.** 隐私是一项人权<br>**Racial equity and justice.** 种族平等和正义<br>**Supplier responsibility.** 供应链责任 |
+
+
 
 ---
 
