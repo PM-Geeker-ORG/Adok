@@ -18,16 +18,30 @@
 | 价值观 |
 | **Accessibility.** 易用性<br>**Support education.** 支持教育<br>**A planet-sized plan.** 一个地球大小的计划（碳中和）<br>**We’re all in.** 我们全力以赴<br>**Privacy is a human right.** 隐私是一项人权<br>**Racial equity and justice.** 种族平等和正义<br>**Supplier responsibility.** 供应链责任 |
 
-
-
 ---
 
-| 微软 Microsoft 1976 美国 |
+
+
+| 微软 Microsoft 1975 美国 |
 | :---: |
 | |
 | 使命 |
-| **使命** |
+| **To empower every person and every organization on the planet to achieve more.**<br>**让地球上的每个人和每个组织都能取得更多成就**。 |
 | 愿景 |
-| **愿景** |
+| **To help people and businesses throughout the world realize their full potential**.<br>**帮助世界各地的人们和企业充分发挥其潜力** |
 | 价值观 |
-| **价值观** |
+| **Innovation.** 创新<br>**Trustworthy computing**. 值得信赖的计算<br>**Diversity and inclusion.** 多样性和包容性<br>**Corporate social responsibility**. 企业社会责任<br>**Philanthropies.** 慈善事业<br>**Environment.** 环境 |
+
+---
+
+
+
+| 谷歌 Google 2006 美国 |
+| :---: |
+| |
+| 使命 |
+| **To organize the world’s information and make it universally accessible and useful.**<br>**组织世界各地的信息，让所有人都能访问和使用。** |
+| 愿景 |
+| **To provide access to the world’s information in one click**..<br>**提供一键访问世界信息** |
+| 价值观 |
+| **Focus on the user and all else will follow.** 以用户为中心其他一切都会随之而来<br>**Fast is better than slow.** 快总比慢好<br>**Democracy on the web works.** 网络实现民主<br>**You can make money without doing evil.** 你可以不作恶地赚钱<br>**There’s always more information out there.** 那里总有更多的信息<br>**Great just isn’t good enough.** 追求更好的伟大 |
