@@ -59,3 +59,17 @@
 | **Create a world where people can share anything they want with anyone they want.**<br>**创造一个人们可以与任何人分享他们想要的任何东西的世界。** |
 | 价值观 |
 | **Be bold.** 大胆一点<br>**Focus on impact.** 关注影响力<br>**Move fast.** 快速行动<br>**Be open.** 保持开放<br>**Build social value.** 构建社会价值 |
+
+---
+
+
+
+| OpenAI 2015 美国 |
+| :---: |
+| |
+| 使命 |
+| **To ensure that artificial general intelligence benefits all of humanity**<br>**确保通用人工智能造福全人类。** |
+| 愿景 |
+| **To ensure that artificial general intelligence benefits all of humanity**<br/>**（愿景的核心是使命）确保通用人工智能造福全人类。** |
+| 价值观 |
+| **AGI focus.** AGI重点<br>**Intense and scrappy.** 激烈和斗志<br>**Scale.** 规模<br>**Make something people love.** 创造人们喜爱的东西<br>**Team spirit.** 团队精神 |
