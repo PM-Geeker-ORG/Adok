@@ -24,3 +24,9 @@ AGI时代的到来，人工智能全面超越人类，并由AGI自动过渡到AS
 
 [WaytoAGI - 通往AGI之路 - 最好的 AI 知识库和工具站](https://www.waytoagi.com)
 
+---
+
+下面分享的是关于Ai类产品的应用榜单数据和资讯数据 🤗
+
+[AI产品榜 - AiCPB.com](https://dnipkggqxh.feishu.cn/wiki/YTIUwM6Vmij4IQkSm9PctPWunIb)
+
