@@ -28,7 +28,7 @@
 | 使命 |
 | **To empower every person and every organization on the planet to achieve more.**<br>**让地球上的每个人和每个组织都能取得更多成就**。 |
 | 愿景 |
-| **To help people and businesses throughout the world realize their full potential**.<br>**帮助世界各地的人们和企业充分发挥其潜力。** |
+| **To help people and businesses throughout the world realize their full potential.**<br>**帮助世界各地的人们和企业充分发挥其潜力。** |
 | 价值观 |
 | **Innovation.** 创新<br>**Trustworthy computing**. 值得信赖的计算<br>**Diversity and inclusion.** 多样性和包容性<br>**Corporate social responsibility**. 企业社会责任<br>**Philanthropies.** 慈善事业<br>**Environment.** 环境 |
 
@@ -42,7 +42,7 @@
 | 使命 |
 | **To organize the world’s information and make it universally accessible and useful.**<br>**组织世界各地的信息，让所有人都能访问和使用。** |
 | 愿景 |
-| **To provide access to the world’s information in one click**..<br>**提供一键访问世界信息。** |
+| **To provide access to the world’s information in one click.**<br>**提供一键访问世界信息。** |
 | 价值观 |
 | **Focus on the user and all else will follow.** 以用户为中心其他一切都会随之而来<br>**Fast is better than slow.** 快总比慢好<br>**Democracy on the web works.** 网络实现民主<br>**You can make money without doing evil.** 你可以不作恶地赚钱<br>**There’s always more information out there.** 那里总有更多的信息<br>**Great just isn’t good enough.** 追求更好的伟大 |
 
@@ -68,8 +68,36 @@
 | :---: |
 | |
 | 使命 |
-| **To ensure that artificial general intelligence benefits all of humanity**<br>**确保通用人工智能造福全人类。** |
+| **To ensure that artificial general intelligence benefits all of humanity.**<br>**确保通用人工智能造福全人类。** |
 | 愿景 |
-| **To ensure that artificial general intelligence benefits all of humanity**<br/>**（愿景的核心是使命）确保通用人工智能造福全人类。** |
+| **To ensure that artificial general intelligence benefits all of humanity.**<br/>**（愿景的核心是使命）确保通用人工智能造福全人类。** |
 | 价值观 |
 | **AGI focus.** AGI重点<br>**Intense and scrappy.** 激烈和斗志<br>**Scale.** 规模<br>**Make something people love.** 创造人们喜爱的东西<br>**Team spirit.** 团队精神 |
+
+---
+
+
+
+| Tesla 2003 美国 |
+| :---: |
+| |
+| 使命 |
+| **To accelerate the world’s transition to sustainable energy.**<br>**加速世界向可持续能源的转变。** |
+| 愿景 |
+| **Create the most compelling car company of the 21st century while driving the world’s transition to electric vehicles.**<br/>**推动世界向电动汽车过渡并成为21世纪最具吸引力的汽车公司。** |
+| 价值观 |
+| **Fast-Paced.** 快节奏<br>**Energetic.** 精力充沛<br>**Innovative.** 创新<br>**Inclusiveness.** 包容 |
+
+---
+
+
+
+| SpaceX 2002 美国 |
+| :---: |
+| |
+| 使命 |
+| **To revolutionize space technology, with the ultimate goal of enabling people to live on other planets.**<br>**彻底改变太空技术，最终目标是使人们能够在其他星球上生活。** |
+| 愿景 |
+| **To leap into the future using all the technological advancements at its disposal.**<br/>**利用已掌握的所有技术进步跃入未来。** |
+| 价值观 |
+| **Innovation.** 创新<br>**Commitment.** 承诺<br>**The Visionary Mindset.** 远见心态<br>**Conserving the Planet.** 保护地球 |
