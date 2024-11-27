@@ -101,3 +101,36 @@
 | **To leap into the future using all the technological advancements at its disposal.**<br/>**利用已掌握的所有技术进步跃入未来。** |
 | 价值观 |
 | **Innovation.** 创新<br>**Commitment.** 承诺<br>**The Visionary Mindset.** 远见心态<br>**Conserving the Planet.** 保护地球 |
+
+---
+
+
+
+| Amazon 1994 美国 |
+| :---: |
+| |
+| 使命 |
+| **To continually raise the bar of the customer experience by using the internet and technology to help consumers find, discover and buy anything, and empower businesses and content creators to maximise their success.**<br>**利用互联网和技术帮助消费者寻找、发现和购买任何东西，并帮助企业和内容创作者最大限度地获得成功，从而不断提高客户体验的标准。** |
+| 愿景 |
+| **To be Earth’s most customer-centric company, Earth’s best employer, and Earth’s safest place to work.**<br/>**成为地球上最以客户为中心的公司、地球上最好的雇主和地球上最安全的工作场所。** |
+| 价值观 |
+| **Customer Obsession.** 客户至上<br>**Ownership.** 所有权<br>**Invent and Simplify.** 发明与简化<br>**Learn and Be Curious.** 学习和保持好奇心<br>**Hire the Best.** 招聘最优秀人才<br>**The Highest Standards.** 最高标准<br>**Think Big.** 大胆思考<br>**Bias for Action.** 偏向于行动<br>**Earn Trust.** 赢得信任<br>**Deliver Results.** 交付成果 |
+
+---
+
+
+
+<details>
+<summary>🔅点击展开 - 更多内容</summary> 
+<br>
+
+| XXX 2000 N国 |
+| :---: |
+| |
+| 使命 |
+| **To continue.**<br>**待补充。** |
+| 愿景 |
+| **To continue.**<br>**待补充。** |
+| 价值观 |
+| **A.** A<br>**B.** B<br>**C.** C<br>**D.** D |
+</details>
