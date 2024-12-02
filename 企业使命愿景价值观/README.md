@@ -120,6 +120,20 @@
 
 
 
+| Samsung 1938 韩国 |
+| :---: |
+| |
+| 使命 |
+| **To devote its talent and technology to creating superior products and services that contribute to a better global society.**<br>**将人才和技术用于创造卓越的产品和服务，为建设更美好的全球社会做出贡献。** |
+| 愿景 |
+| **To inspire the world with our innovative technologies, products and design that enrich people’s lives and contribute to social prosperity by creating a new future.**<br/>**用我们的创新技术、产品和设计激励世界，丰富人们的生活，通过创造新的未来促进社会繁荣。** |
+| 价值观 |
+| **People.** 员工<br>**Excellence.** 卓越<br>**Change.** 变革<br>**Integrity.** 诚信<br>**Co-prosperity.** 共同繁荣 |
+
+---
+
+
+
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
