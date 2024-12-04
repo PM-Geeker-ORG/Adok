@@ -78,7 +78,7 @@
 
 
 
-| Tesla 2003 美国 |
+| 特斯拉 Tesla 2003 美国 |
 | :---: |
 | |
 | 使命 |
@@ -106,7 +106,7 @@
 
 
 
-| Amazon 1994 美国 |
+| 亚马逊 Amazon 1994 美国 |
 | :---: |
 | |
 | 使命 |
@@ -120,7 +120,7 @@
 
 
 
-| Samsung 1938 韩国 |
+| 三星 Samsung 1938 韩国 |
 | :---: |
 | |
 | 使命 |
@@ -134,8 +134,21 @@
 
 
 
+| 英伟达 Nvidia 1993 美国 |
+| :---: |
+| |
+| 使命 |
+| **To be the world’s leading visual computing company.**<br>**成为世界领先的视觉计算公司。** |
+| 愿景 |
+| **To transform how the world experiences computing.**<br/>**改变世界对计算的体验。** |
+| 价值观 |
+| **Innovation.** 创新<br>**Intellectual Honesty.** 卓越<br>**Speed and Agility.** 速度和敏捷<br>**Excellence and Determination.** 卓越和决心<br>**One Team.** 一个团队 |
+
+---
+
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
+
 <br>
 
 | XXX 2000 N国 |
