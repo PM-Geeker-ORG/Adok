@@ -36,7 +36,7 @@
 
 
 
-| 谷歌 Google 1998 美国 |
+| 谷歌 Google（Alphabet） 1998 美国 |
 | :---: |
 | |
 | 使命 |
@@ -151,6 +151,19 @@
 
 <br>
 
+| 可口可乐 CocaCola 1886 美国 |
+| :---: |
+| |
+| 使命 |
+| **To refresh the world. To inspire moments of optimism and happiness. To create value and make a difference.**<br>**让世界焕然一新。激发乐观和幸福的时刻。创造价值并有所作为。** |
+| 愿景 |
+| **To craft the brands and choice of drinks that people love, to refresh them in body & spirit.**<br>**精心打造人们喜爱的饮料品牌和选择，让他们身心焕然一新。** |
+| 价值观 |
+| **Leadership.** 领导力<br>**Collaboration.** 协作<br>**Integrity.** 正直<br>**Accountability.** 责任<br>**Passion.** 热情<br>**Diversity.** 多样化<br>**Quality.** 质量 |
+</details>
+
+
+<!--
 | XXX 2000 N国 |
 | :---: |
 | |
@@ -160,4 +173,4 @@
 | **To continue.**<br>**待补充。** |
 | 价值观 |
 | **A.** A<br>**B.** B<br>**C.** C<br>**D.** D |
-</details>
+-->
