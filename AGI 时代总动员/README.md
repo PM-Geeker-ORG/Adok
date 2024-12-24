@@ -30,3 +30,7 @@ AGI时代的到来，人工智能全面超越人类，并由AGI自动过渡到AS
 
 [AI产品榜 - AiCPB.com](https://dnipkggqxh.feishu.cn/wiki/YTIUwM6Vmij4IQkSm9PctPWunIb)
 
+---
+下面分享的是OpenAI官方对Prompt使用的六大技巧，这个简单的教程足以令你成为智能专业户 🤗
+
+[Prompt engineering - OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
