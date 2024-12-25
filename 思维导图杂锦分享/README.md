@@ -7,9 +7,20 @@
 ---
 <br>
 
-**⚡决胜B端：产品经理升级之路**：关于这本书的总结情况
+**⚡启示录：打造用户喜爱的产品**：关于这本书的总结情况（一本属于产品经理启蒙同时也是产品经理在历练之后被重新剖析和找回自己的书）
 
 <details open="True">
+<summary>🔅点击展开 - 更多内容</summary>
+<br>
+<img src="https://github.com/user-attachments/assets/86b59faf-9232-4185-b5b0-ce8c8cb9309f"></img>
+</details>
+
+---
+<br>
+
+**⚡决胜B端：产品经理升级之路**：关于这本书的总结情况
+
+<details>
 <summary>🔅点击展开 - 更多内容</summary>
 <br>
 <img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/0df4df04-df89-423d-bf4b-ab8b4d36fefa"></img>
