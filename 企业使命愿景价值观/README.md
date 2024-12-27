@@ -160,8 +160,19 @@
 | **To craft the brands and choice of drinks that people love, to refresh them in body & spirit.**<br>**精心打造人们喜爱的饮料品牌和选择，让他们身心焕然一新。** |
 | 价值观 |
 | **Leadership.** 领导力<br>**Collaboration.** 协作<br>**Integrity.** 正直<br>**Accountability.** 责任<br>**Passion.** 热情<br>**Diversity.** 多样化<br>**Quality.** 质量 |
-</details>
 
+---
+
+| 阿里巴巴 Alibaba 1999 中国 |
+| :---: |
+| |
+| 使命 |
+| **让天下没有难做的生意。**<br>**To make it easy to do business anywhere.** |
+| 愿景 |
+| **追求成为一家活102年的好公司。我们的愿景是让客户相会、工作和生活在阿里巴巴。**<br>**We aspire to be a good company that will last for 102 years. We envision that our customers will meet, work and live at Alibaba.** |
+| 价值观 |
+| **客户第一，员工第二，股东第三。** Customers first, employees second, shareholders third.<br>**因为信任，所以简单。** Trust makes everything simple.<br>**唯一不变的是变化。** Change is the only constant.<br>**今天最好的表现是明天最低的要求。** Today's best performance is tomorrow's baseline.<br>**此时此刻，非我莫属。** If not now, when? If not me, who?<br>**认真生活，快乐工作。** Live seriously, work happily. |
+</details>
 
 <!--
 | XXX 2000 N国 |
