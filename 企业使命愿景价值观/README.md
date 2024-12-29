@@ -20,8 +20,6 @@
 
 ---
 
-
-
 | 微软 Microsoft 1975 美国 |
 | :---: |
 | |
@@ -33,8 +31,6 @@
 | **Innovation.** 创新<br>**Trustworthy computing**. 值得信赖的计算<br>**Diversity and inclusion.** 多样性和包容性<br>**Corporate social responsibility**. 企业社会责任<br>**Philanthropies.** 慈善事业<br>**Environment.** 环境 |
 
 ---
-
-
 
 | 谷歌 Google（Alphabet） 1998 美国 |
 | :---: |
@@ -48,8 +44,6 @@
 
 ---
 
-
-
 | 脸书 Meta（Facebook）2004 美国 |
 | :---: |
 | |
@@ -61,8 +55,6 @@
 | **Be bold.** 大胆一点<br>**Focus on impact.** 关注影响力<br>**Move fast.** 快速行动<br>**Be open.** 保持开放<br>**Build social value.** 构建社会价值 |
 
 ---
-
-
 
 | OpenAI 2015 美国 |
 | :---: |
@@ -76,8 +68,6 @@
 
 ---
 
-
-
 | 特斯拉 Tesla 2003 美国 |
 | :---: |
 | |
@@ -89,8 +79,6 @@
 | **Fast-Paced.** 快节奏<br>**Energetic.** 精力充沛<br>**Innovative.** 创新<br>**Inclusiveness.** 包容 |
 
 ---
-
-
 
 | SpaceX 2002 美国 |
 | :---: |
@@ -104,8 +92,6 @@
 
 ---
 
-
-
 | 亚马逊 Amazon 1994 美国 |
 | :---: |
 | |
@@ -118,8 +104,6 @@
 
 ---
 
-
-
 | 三星 Samsung 1938 韩国 |
 | :---: |
 | |
@@ -131,8 +115,6 @@
 | **People.** 员工<br>**Excellence.** 卓越<br>**Change.** 变革<br>**Integrity.** 诚信<br>**Co-prosperity.** 共同繁荣 |
 
 ---
-
-
 
 | 英伟达 Nvidia 1993 美国 |
 | :---: |
@@ -160,6 +142,18 @@
 | **To craft the brands and choice of drinks that people love, to refresh them in body & spirit.**<br>**精心打造人们喜爱的饮料品牌和选择，让他们身心焕然一新。** |
 | 价值观 |
 | **Leadership.** 领导力<br>**Collaboration.** 协作<br>**Integrity.** 正直<br>**Accountability.** 责任<br>**Passion.** 热情<br>**Diversity.** 多样化<br>**Quality.** 质量 |
+
+---
+
+| 耐克 Nike 1964 美国 |
+| :---: |
+| |
+| 使命 |
+| **To bring inspiration and innovation to every athlete in the world.**<br>**激发世上每一位运动员的灵感与创新能力。** |
+| 愿景 |
+| **To remain the most authentic, connected, and distinctive brand.**<br>**保持最真实、最紧密和最独特的品牌。** |
+| 价值观 |
+| **Community.** 社区<br>**Sustainability.** 可持续性<br>**Diversity.** 多样性<br>**Social Responsibility.** 社会责任 |
 
 ---
 
