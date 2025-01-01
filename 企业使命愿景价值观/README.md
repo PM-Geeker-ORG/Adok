@@ -157,6 +157,18 @@
 
 ---
 
+| 推特 X（Twitter）2006 美国 |
+| :---: |
+| |
+| 使命 |
+| **To promote and protect the public conversation - to be the town square of the internet.**<br>**促进和保护公共对话 - 成为互联网的城市广场。** |
+| 愿景 |
+| **To be the ultimate “everything app” that revolves around audio, video, messaging, payments, and banking and is powered by artificial intelligence.**<br>**成为围绕音频、视频、消息传递、支付和银行业务，并由人工智能驱动的终极“全能应用程序”。** |
+| 价值观 |
+| **Promoting Health.** 促进健康<br>**Earning Trust of People.** 赢得人们的信任<br>**Uniting purpose and profits.** 统一目标和利润<br>**Being Free, Fast, and Fun.** 自由、快速、有趣<br>**Making It Simple Straightforward.** 化繁为简<br>**Sustainability and Environmental Conservation.** 可持续性和环境保护 |
+
+---
+
 | 阿里巴巴 Alibaba 1999 中国 |
 | :---: |
 | |
