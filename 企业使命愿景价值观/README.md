@@ -178,6 +178,30 @@
 | **追求成为一家活102年的好公司。我们的愿景是让客户相会、工作和生活在阿里巴巴。**<br>**We aspire to be a good company that will last for 102 years. We envision that our customers will meet, work and live at Alibaba.** |
 | 价值观 |
 | **客户第一，员工第二，股东第三。** Customers first, employees second, shareholders third.<br>**因为信任，所以简单。** Trust makes everything simple.<br>**唯一不变的是变化。** Change is the only constant.<br>**今天最好的表现是明天最低的要求。** Today's best performance is tomorrow's baseline.<br>**此时此刻，非我莫属。** If not now, when? If not me, who?<br>**认真生活，快乐工作。** Live seriously, work happily. |
+
+---
+
+| 腾讯 Tencent 1998 中国 |
+| :---: |
+| |
+| 使命 |
+| **用户为本，科技向善。**<br>**Value for Users, Tech for Good.** |
+| 愿景 |
+| **用户为本，科技向善。**<br>**（愿景即使命）Value for Users, Tech for Good.** |
+| 价值观 |
+| **正直** Integrity.<br>**进取** Proactivity.<br>**协作** Collaboration.<br>**创造** Creativity. |
+
+---
+
+| 字节跳动 ByteDance 2012 中国 |
+| :---: |
+| |
+| 使命 |
+| **激发创造，丰富生活。**<br>**Inspire Creativity, Enrich Life.** |
+| 愿景 |
+| **全球协作与交流平台。**<br>**A global platform for collaboration and communication.** |
+| 价值观 |
+| **始终创业** Always Day 1.<br>**多元兼容** Champion Diversity and Inclusion.<br>**坦诚清晰** Be Candid and Clear.<br>**求真务实** Seek Truth and Be Pragmatic.<br>**敢为极致** Be Courageous and Aim for the Highest.<br>**共同成长** Grow Together. |
 </details>
 
 <!--
