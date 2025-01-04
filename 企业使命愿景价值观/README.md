@@ -169,6 +169,18 @@
 
 ---
 
+| Adobe 1982 美国 |
+| :---: |
+| |
+| 使命 |
+| **Changing the world through personalized digital experiences.**<br>**通过个性化的数字体验改变世界。** |
+| 愿景 |
+| **Creating innovative products that change the world. Offer groundbreaking technology that empowers everyone, everywhere to imagine, create, and bring any digital experience to life.**<br>**创造改变世界的创新产品。提供突破性的技术，使世界各地的每个人都能想象、创造并将任何数字体验变为现实。** |
+| 价值观 |
+| **We Create the Future.** 我们创造未来<br>**We Own the Outcome.** 我们对结果负责<br>**We Raise the Bar.** 我们提高标准<br>**We are Genuine.** 我们真诚 |
+
+---
+
 | 阿里巴巴 Alibaba 1999 中国 |
 | :---: |
 | |
@@ -202,6 +214,18 @@
 | **全球协作与交流平台。**<br>**A global platform for collaboration and communication.** |
 | 价值观 |
 | **始终创业** Always Day 1.<br>**多元兼容** Champion Diversity and Inclusion.<br>**坦诚清晰** Be Candid and Clear.<br>**求真务实** Seek Truth and Be Pragmatic.<br>**敢为极致** Be Courageous and Aim for the Highest.<br>**共同成长** Grow Together. |
+
+---
+
+| 百度 Baidu 2000 中国 |
+| :---: |
+| |
+| 使命 |
+| **用科技让复杂的世界更简单。**<br>**Make the complex world simpler with technology.** |
+| 愿景 |
+| **成为最懂用户，并能帮助人们成长的全球顶级高科技公司。**<br>**To become the world's leading high-tech company that truly understands users and helps people grow.** |
+| 价值观 |
+| **用户第一** User First.<br>**简单可依赖** Simple and Reliable.<br>**拥抱变化** Embrace Change.<br>**勇于创新** Be Innovative. |
 </details>
 
 <!--
