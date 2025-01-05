@@ -69,3 +69,14 @@
 <br>
 <img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/9c365942-d446-4ead-9640-92f35b11006f"></img>
 </details>
+
+---
+<br>
+
+**⚡成功智慧**：关于成功的思想品德
+
+<details>
+<summary>🔅点击展开 - 更多内容</summary>
+<br>
+<img src="https://github.com/PM-Geeker-ORG/Adok/assets/143123392/9c365942-d446-4ead-9640-92f35b11006f"></img>
+</details>
