@@ -226,6 +226,30 @@
 | **成为最懂用户，并能帮助人们成长的全球顶级高科技公司。**<br>**To become the world's leading high-tech company that truly understands users and helps people grow.** |
 | 价值观 |
 | **用户第一** User First.<br>**简单可依赖** Simple and Reliable.<br>**拥抱变化** Embrace Change.<br>**勇于创新** Be Innovative. |
+
+---
+
+| 华为 Huawei 1987 中国 |
+| :---: |
+| |
+| 使命 |
+| **把数字世界带入每个人、每个家庭、每个组织，构建万物互联的智能世界。**<br>**To bring digital to every person, home and organization for a fully connected, intelligent world.** |
+| 愿景 |
+| **把数字世界带入每个人、每个家庭、每个组织，构建万物互联的智能世界。**<br>**（愿景即使命）To bring digital to every person, home and organization for a fully connected, intelligent world.** |
+| 价值观 |
+| **成就客户** Customer Success.<br>**艰苦奋斗** Work Arduously.<br>**自我批判** Self-criticism.<br>**开放进取** Open and Enterprising.<br>**至诚至信** Sincerity and Trustworthiness.<br>**团队合作** Teamwork. |
+
+---
+
+| 小米 Xiaomi 2010 中国 |
+| :---: |
+| |
+| 使命 |
+| **始终坚持做“感动人心、价格厚道”的好产品，让全球每个人都能享受科技带来的美好生活。**<br>**Always insist on making good products that are "touching people's hearts and honest at a reasonable price", so that everyone in the world can enjoy a better life brought by science and technology.** |
+| 愿景 |
+| **和用户交朋友，做用户心中最酷的公司。**<br>**Make friends with users and be the coolest company in the users’ hearts.** |
+| 价值观 |
+| **和用户交朋友** Make friends with users.<br>**工程师思维** Engineer thinking.<br>**主人翁精神** Spirit of Ownership.<br>**信任第一** Trust First.<br>**共创共识** Co-create Consensus.<br>**结果导向** Result Oriented.<br>**坚韧乐观** Tenacity and optimism.<br>**坚持成长** Insist on Growth. |
 </details>
 
 <!--
