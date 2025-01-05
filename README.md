@@ -124,7 +124,7 @@ A Dream OK ? I Am A PM Who Will Change The World Even He Will Fail ...
 </details>
 
 ---
-##### ♻️ RP 原型相关集合分享  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/RP%20%E5%8E%9F%E5%9E%8B%E7%9B%B8%E5%85%B3%E6%B1%87%E6%80%BB)
+##### ♻️ RP 原型相关集合分享  [✅点击查看](https://github.com/PM-Geeker-ORG/Adok/tree/main/RP%20%E5%8E%9F%E5%9E%8B%E7%9B%B8%E5%85%B3%E9%9B%86%E5%90%88%E5%88%86%E4%BA%AB)
 <details>
 <summary>🔅点击展开 - 更多内容</summary> 
 <br>
