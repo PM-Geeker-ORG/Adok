@@ -129,7 +129,7 @@
 ---
 
 <details>
-<summary>🔅点击展开 - 更多内容</summary> 
+<summary>🔅点击展开 - 更多内容（+10）</summary> 
 
 <br>
 
@@ -250,6 +250,24 @@
 | **和用户交朋友，做用户心中最酷的公司。**<br>**Make friends with users and be the coolest company in the users’ hearts.** |
 | 价值观 |
 | **和用户交朋友** Make friends with users.<br>**工程师思维** Engineer thinking.<br>**主人翁精神** Spirit of Ownership.<br>**信任第一** Trust First.<br>**共创共识** Co-create Consensus.<br>**结果导向** Result Oriented.<br>**坚韧乐观** Tenacity and optimism.<br>**坚持成长** Insist on Growth. |
+</details>
+
+---
+
+<details>
+<summary>🔅点击展开 - 更多内容（+10）</summary> 
+
+<br>
+
+| 麦当劳 McDonald's 1940 美国 |
+| :---: |
+| |
+| 使命 |
+| **To make delicious feel-good moments easy for everyone.**<br>**让每个人都能轻松享受美味愉悦的时光。** |
+| 愿景 |
+| **To move with velocity to drive profitable growth and become an even better McDonald’s serving more customers delicious food each day around the world.**<br>**快速行动以推动盈利增长并成为更好的麦当劳，每天为世界各地的更多顾客提供美味的食物。** |
+| 价值观 |
+| **Serve.** 服务<br>**Inclusion.** 包容<br>**Integrity.** 正直<br>**Community.** 社区<br>**Family.** 家庭 |
 </details>
 
 <!--
