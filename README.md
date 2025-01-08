@@ -1,10 +1,13 @@
 # Adok
 A Dream OK ? I Am A PM Who Will Change The World Even He Will Fail ...
 
+---
+
 > [!CAUTION]
-> 本 Github 仓库的 **.git** 文件夹已经臃肿，克隆仓库**❗请** 使用后缀 **--depth=1**
-> 
-> 完整写法：git clone https://github.com/PM-Geeker-ORG/Adok.git --depth=1
+> 本 Github 仓库的 **.git** 文件夹已经臃肿，克隆仓库**❗请** 使用后缀 **--depth=1** 【完整克隆方式如下】
+> <h1>git clone https://github.com/PM-Geeker-ORG/Adok.git --depth=1</h1>
+
+---
 
 ## 你好！我将会分享关于产品；关于哲理；关于人生的内容。
 
