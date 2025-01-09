@@ -268,6 +268,30 @@
 | **To move with velocity to drive profitable growth and become an even better McDonald’s serving more customers delicious food each day around the world.**<br>**快速行动以推动盈利增长并成为更好的麦当劳，每天为世界各地的更多顾客提供美味的食物。** |
 | 价值观 |
 | **Serve.** 服务<br>**Inclusion.** 包容<br>**Integrity.** 正直<br>**Community.** 社区<br>**Family.** 家庭 |
+
+---
+
+| 优步 Uber 2009 美国 |
+| :---: |
+| |
+| 使命 |
+| **To provide transportation as reliable as running water, everywhere, for everyone.**<br>**为每个人提供像自来水一样可靠的交通工具。** |
+| 愿景 |
+| **To ignite opportunity by setting the world in motion.**<br>**通过推动世界发展来点燃机遇。** |
+| 价值观 |
+| **Build Globally, Live Locally.** 全球化建设，本地化生活<br>**Customer Obsessed.** 客户至上<br>**Celebrate Differences.** 庆祝差异<br>**Do the Right Thing.** 做正确的事<br>**Act like Owners.** 像主人一样行动<br>**Persevere.** 忍耐<br>**Ideas over Hierarchy.** 理念高于等级制度<br>**Making Big Bold Bets.** 做出大胆的押注 |
+
+---
+
+| 京东 JD 1998 中国 |
+| :---: |
+| |
+| 使命 |
+| **技术为本，让生活更美好。**<br>**Technology-based, making life better.** |
+| 愿景 |
+| **成为全球最值得信赖的企业。**<br>**To be the most trusted company in the world.** |
+| 价值观 |
+| **客户为先** Customer First.<br>**创新** Innovation.<br>**拼搏** Struggle.<br>**担当** Responsibility.<br>**感恩** Grateful.<br>**诚信** Integrity. |
 </details>
 
 <!--
