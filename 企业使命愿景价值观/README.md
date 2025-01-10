@@ -295,6 +295,18 @@
 
 ---
 
+| 宜家 IKEA 1943 瑞典 |
+| :---: |
+| |
+| 使命 |
+| **To offer a wide range of well-designed, functional home furnishing products at prices so low that as many people as possible will be able to afford them.**<br>**提供种类繁多、设计精良、功能齐全且价格低廉的家居产品，让尽可能多的人都能买得起。** |
+| 愿景 |
+| **To create a better everyday life for the many people.**<br>**为大众创造更美好的日常生活。** |
+| 价值观 |
+| **Togetherness.** 团结一致<br>**Caring for people and planet.** 关爱人类和地球<br>**Cost-consciousness.** 成本意识<br>**Simplicity.** 简单<br>**Renew and improve.** 更新和改进<br>**Different with a meaning.** 富有意义的与众不同<br>**Give and take responsibility.** 赋予和承担责任<br>**Lead by example.** 以身作则 |
+
+---
+
 | 京东 JD 1998 中国 |
 | :---: |
 | |
