@@ -283,6 +283,18 @@
 
 ---
 
+| 沃尔玛 Walmart 1962 美国 |
+| :---: |
+| |
+| 使命 |
+| **To save people money so they can live better.**<br>**为人们省钱以便他们过上更好的生活。** |
+| 愿景 |
+| **Be the destination for customers to save money, no matter how they want to shop.**<br>**无论顾客希望如何购物，都要成为他们省钱的目的地。** |
+| 价值观 |
+| **Customer First.** 顾客至上<br>**Respect for the Individual.** 尊重个人<br>**Strive for Excellence.** 追求卓越<br>**Act with Integrity.** 诚信行事<br>**Service to the Community.** 服务社区 |
+
+---
+
 | 京东 JD 1998 中国 |
 | :---: |
 | |
