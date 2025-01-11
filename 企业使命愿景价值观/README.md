@@ -316,6 +316,18 @@
 | **成为全球最值得信赖的企业。**<br>**To be the most trusted company in the world.** |
 | 价值观 |
 | **客户为先** Customer First.<br>**创新** Innovation.<br>**拼搏** Struggle.<br>**担当** Responsibility.<br>**感恩** Grateful.<br>**诚信** Integrity. |
+
+---
+
+| 大疆 Dji 2006 中国 |
+| :---: |
+| |
+| 使命 |
+| **让生命更丰富。**<br>**Make life more abundant.** |
+| 愿景 |
+| **成为持续推动人类文明进步的科技公司。**<br>**Become a technology company that continuously drives the progress of human civilization.** |
+| 价值观 |
+| **秉持公心** Adhere to impartiality.<br>**反思自省** Reflect and self-examine.<br>**求真品诚** Pursue truth and sincerity.<br>**激极尽志** Strive to the utmost.<br>**积极正向** Be positive and forward-looking.<br>**知行合一** Integrate knowledge with action. |
 </details>
 
 <!--
