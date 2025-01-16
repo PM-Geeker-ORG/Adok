@@ -307,6 +307,18 @@
 
 ---
 
+| 星巴克 Starbucks 1972 美国 |
+| :---: |
+| |
+| 使命 |
+| **To inspire and nurture the human spirit - one person, one cup, and one neighborhood at a time.**<br>**激发和培养人类精神 - 一次一个人、一个杯和一个社区。** |
+| 愿景 |
+| **To establish Starbucks as the premier purveyor of the finest coffee in the world while maintaining our uncompromising principles while we grow.**<br>**将星巴克打造成世界上最好的咖啡的首屈一指供应商，同时在我们成长的过程保持我们毫不妥协的原则。** |
+| 价值观 |
+| **Craft.** 工艺<br>**Results.** 结果<br>**Courage.** 勇气<br>**Belonging.** 归属感<br>**Joy.** 喜悦 |
+
+---
+
 | 京东 JD 1998 中国 |
 | :---: |
 | |
