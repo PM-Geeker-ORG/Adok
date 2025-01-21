@@ -319,6 +319,18 @@
 
 ---
 
+| 台积电 TSMC 1987 中华台湾 |
+| :---: |
+| |
+| 使命 |
+| **作为全球逻辑积体电路产业中，长期且值得信赖的技术及产能提供者。**<br>**To be the trusted technology and capacity provider of the global logic IC industry for years to come.** |
+| 愿景 |
+| **成为全球最先进及最大的专业集成电路技术及制造服务业者，并且与我们无晶圆厂设计公司及整合组件制造商的客户群共同组成半导体产业中坚强的竞争团队。**<br>**To be the most advanced and largest technology and foundry services provider to fabless companies and IDMs, and in partnership with them, to forge a powerful competitive force in the semiconductor industry.** |
+| 价值观 |
+| **诚信正直** Integrity.<br>**承诺** Commitment.<br>**创新** Innovation.<br>**客户信任** Customertrust. |
+
+---
+
 | 京东 JD 1998 中国 |
 | :---: |
 | |
