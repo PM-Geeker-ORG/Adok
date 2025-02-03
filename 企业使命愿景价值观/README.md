@@ -319,6 +319,18 @@
 
 ---
 
+| 领英 LinkedIn 2002 美国 |
+| :---: |
+| |
+| 使命 |
+| **To connect the world’s professionals to make them more productive and successful.**<br>**连接全球职场人士，协助他们在职场事半功倍，发挥所长。** |
+| 愿景 |
+| **To create economic opportunity for every member of the global workforce.**<br>**为全球每一位职场人士创造经济机会。** |
+| 价值观 |
+| **Valuing Workforce.** 重视全体员工<br>**Trust and Care.** 信任和关怀<br>**Diversity and Inclusion.** 多样性和包容性<br>**Innovation.** 创新<br>**Honesty.** 诚实 |
+
+---
+
 | 台积电 TSMC 1987 中华台湾 |
 | :---: |
 | |
