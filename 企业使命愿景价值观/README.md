@@ -364,6 +364,18 @@
 | **成为持续推动人类文明进步的科技公司。**<br>**Become a technology company that continuously drives the progress of human civilization.** |
 | 价值观 |
 | **秉持公心** Adhere to impartiality.<br>**反思自省** Reflect and self-examine.<br>**求真品诚** Pursue truth and sincerity.<br>**激极尽志** Strive to the utmost.<br>**积极正向** Be positive and forward-looking.<br>**知行合一** Integrate knowledge with action. |
+
+---
+
+| 网易 NetEase 1997 中国 |
+| :---: |
+| |
+| 使命 |
+| **网聚人的力量，以科技创新缔造美好生活。**<br>**Gather the power of people and create a better life through technological innovation.** |
+| 愿景 |
+| **网聚人的力量，以科技创新缔造美好生活。**<br>**（愿景即使命）Gather the power of people and create a better life through technological innovation.** |
+| 价值观 |
+| **为热爱全心投入** Devote oneself wholeheartedly to one's passion.<br>**和用户在一起** Be with the user.<br>**从0到1是创新，从1到1.1也是** From zero to one is innovation, and so is from one to 1.1. |
 </details>
 
 <!--
@@ -375,5 +387,5 @@
 | 愿景 |
 | **To continue.**<br>**待补充。** |
 | 价值观 |
-| **A.** A<br>**B.** B<br>**C.** C<br>**D.** D |
+| **A.** A<br>**B.** B<br>**C.** C |
 -->
